@@ -1,4 +1,3 @@
-````markdown
 # 🧑‍💼 Employee Salary Prediction
 
 This is a machine learning web application built with **Streamlit** that predicts an employee's salary category (`<=50K` or `>50K`) based on demographic and work-related features. The model is trained using the UCI Adult dataset.
@@ -31,7 +30,7 @@ This is a machine learning web application built with **Streamlit** that predict
    ```bash
    git clone https://github.com/yourusername/employee-salary-prediction.git
    cd employee-salary-prediction
-````
+
 
 2. **Install the dependencies**
 
@@ -83,30 +82,9 @@ This is a machine learning web application built with **Streamlit** that predict
 
 ---
 
-## 📌 Future Improvements
-
-* Add model evaluation metrics to UI
-* Allow users to upload CSV for batch prediction
-* Deploy on cloud (Streamlit Community Cloud / Heroku)
-* Add charts for visual analysis
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and share.
 
-```
-
----
-
-Let me know if you'd like me to customize your name, add deployment info, or generate a `requirements.txt`.
 ```
