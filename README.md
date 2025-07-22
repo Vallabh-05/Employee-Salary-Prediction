@@ -86,5 +86,3 @@ This is a machine learning web application built with **Streamlit** that predict
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and share.
-
-```
